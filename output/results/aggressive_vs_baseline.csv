@@ -1,0 +1,253 @@
+original_image_path,processed_image_path,true_label,baseline_pred,compressed_pred,baseline_correct,compressed_correct,prediction_match,baseline_confidence,compressed_confidence,baseline_time_ms,compressed_time_ms
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\1 no.jpeg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\1 no.jpg,0,0,0,1,1,1,0.0041247047483921,0.0390608645975589,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\10 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\10 no.jpg,0,0,0,1,1,1,0.0531448684632778,0.3265154659748077,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\11 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\11 no.jpg,0,0,0,1,1,1,0.0133623881265521,0.0374598391354084,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\12 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\12 no.jpg,0,0,1,1,0,0,0.0709905326366424,0.597393274307251,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\13 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\13 no.jpg,0,0,0,1,1,1,0.0012319472152739,0.0106280343607068,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\14 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\14 no.jpg,0,0,0,1,1,1,0.0399553067982196,0.0304141025990247,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\15 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\15 no.jpg,0,0,0,1,1,1,0.1434980481863021,0.2831982970237732,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\17 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\17 no.jpg,0,0,0,1,1,1,0.0548717826604843,0.4278750717639923,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\18 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\18 no.jpg,0,0,0,1,1,1,0.0771245062351226,0.0969483628869056,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\19 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\19 no.jpg,0,0,0,1,1,1,0.0428026169538497,0.0951465740799903,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\2 no.jpeg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\2 no.jpg,0,0,0,1,1,1,0.0646965131163597,0.2070939838886261,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\20 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\20 no.jpg,0,0,1,1,0,0,0.1663875430822372,0.5364866256713867,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\21 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\21 no.jpg,0,0,0,1,1,1,0.0159412585198879,0.1258744150400161,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\22 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\22 no.jpg,0,0,0,1,1,1,0.0275429245084524,0.0729712694883346,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\23 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\23 no.jpg,0,1,1,0,0,1,0.8252916932106018,0.8932235240936279,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\24 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\24 no.jpg,0,0,0,1,1,1,0.0171518195420503,0.1173515766859054,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\25 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\25 no.jpg,0,0,0,1,1,1,0.1323693096637725,0.0096403108909726,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\26 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\26 no.jpg,0,0,0,1,1,1,0.0211453158408403,0.4672611057758331,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\27 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\27 no.jpg,0,0,0,1,1,1,0.0548717826604843,0.4278750717639923,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\28 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\28 no.jpg,0,0,0,1,1,1,0.1540124118328094,0.2896817028522491,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\29 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\29 no.jpg,0,0,0,1,1,1,0.0077271652407944,0.3378229737281799,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\3 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\3 no.jpg,0,0,1,1,0,0,0.1633611172437667,0.6909260153770447,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\30 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\30 no.jpg,0,1,0,0,1,0,0.586078941822052,0.3409054279327392,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\31 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\31 no.jpg,0,0,0,1,1,1,0.0069474689662456,0.3907103836536407,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\32 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\32 no.jpg,0,0,0,1,1,1,0.0496437586843967,0.2265574187040329,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\33 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\33 no.jpg,0,0,0,1,1,1,0.0124673126265406,0.4049551784992218,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\34 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\34 no.jpg,0,0,1,1,0,0,0.0398140326142311,0.6262322068214417,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\35 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\35 no.jpg,0,0,0,1,1,1,0.2317776083946228,0.2144460082054138,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\36 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\36 no.jpg,0,0,0,1,1,1,0.3314806520938873,0.3799197077751159,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\37 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\37 no.jpg,0,0,0,1,1,1,0.0054174670949578,0.0031158805359154,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\38 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\38 no.jpg,0,0,1,1,0,0,0.0438873097300529,0.9121729731559752,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\39 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\39 no.jpg,0,0,0,1,1,1,0.0081047434359788,0.4295398294925689,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\4 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\4 no.jpg,0,0,1,1,0,0,0.0943662673234939,0.8201924562454224,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\40 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\40 no.jpg,0,0,0,1,1,1,0.0852376371622085,0.1098621264100074,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\41 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\41 no.jpg,0,0,0,1,1,1,0.0852376371622085,0.1098621264100074,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\42 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\42 no.jpg,0,0,0,1,1,1,0.0012319472152739,0.0106280343607068,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\43 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\43 no.jpg,0,0,0,1,1,1,0.0235018506646156,0.0116589600220322,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\44no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\44no.jpg,0,0,0,1,1,1,0.2102202475070953,0.1958745121955871,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\45 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\45 no.jpg,0,1,0,0,1,0,0.6211099028587341,0.0794726237654686,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\46 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\46 no.jpg,0,0,0,1,1,1,0.0665816217660904,0.0843216329813003,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\47 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\47 no.jpg,0,0,1,1,0,0,0.0894976481795311,0.9296290278434752,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\48 no.jpeg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\48 no.jpg,0,0,0,1,1,1,0.0070295999757945,0.008002501912415,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\49 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\49 no.jpg,0,0,1,1,0,0,0.0086912717670202,0.5833724141120911,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\5 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\5 no.jpg,0,0,0,1,1,1,0.0084696551784873,0.4572795331478119,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\50 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\50 no.jpg,0,0,1,1,0,0,0.3503656685352325,0.6534914374351501,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\6 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\6 no.jpg,0,0,0,1,1,1,0.068828210234642,0.0783456265926361,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\7 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\7 no.jpg,0,0,1,1,0,0,0.3315606415271759,0.5864210724830627,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\8 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\8 no.jpg,0,0,1,1,0,0,0.0438873097300529,0.9121729731559752,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\9 no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\9 no.jpg,0,0,0,1,1,1,0.0531448684632778,0.3265154659748077,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N1.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N1.jpg,0,1,1,0,0,1,0.7342265248298645,0.9074153900146484,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N11.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N11.jpg,0,0,0,1,1,1,0.2906080186367035,0.2621456086635589,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N15.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N15.jpg,0,1,0,0,1,0,0.5451692938804626,0.4938490092754364,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N16.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N16.jpg,0,0,1,1,0,0,0.2126752734184265,0.8761207461357117,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N17.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N17.jpg,0,0,1,1,0,0,0.3567900955677032,0.7985825538635254,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N19.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N19.jpg,0,0,0,1,1,1,0.0747714266180992,0.4204293191432953,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N2.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N2.jpg,0,0,0,1,1,1,0.0266043171286582,0.100224494934082,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N20.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N20.jpg,0,0,0,1,1,1,0.1144123524427414,0.3249546885490417,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N21.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N21.jpg,0,0,0,1,1,1,0.0194190982729196,0.021772364154458,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N22.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N22.jpg,0,0,0,1,1,1,0.0945634022355079,0.3197618126869201,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N26.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N26.jpg,0,0,0,1,1,1,0.0759579986333847,0.0711998641490936,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N3.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N3.jpg,0,0,1,1,0,0,0.0548506714403629,0.8216957449913025,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N5.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N5.jpg,0,0,1,1,0,0,0.0943662673234939,0.8201924562454224,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\N6.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\N6.jpg,0,0,1,1,0,0,0.4663185775279999,0.963561475276947,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 1.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 1.jpg,0,0,1,1,0,0,0.0086912717670202,0.5833724141120911,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 10.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 10.jpg,0,0,0,1,1,1,0.0236966572701931,0.0176333002746105,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 100.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 100.jpg,0,0,1,1,0,0,0.1447752118110656,0.9555994868278505,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 2.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 2.jpg,0,0,0,1,1,1,0.0220125988125801,0.0730090513825416,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 3.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 3.jpg,0,0,0,1,1,1,0.179400160908699,0.3164196014404297,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 4.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 4.jpg,0,0,1,1,0,0,0.0548506714403629,0.8216957449913025,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 5.jpeg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 5.jpg,0,0,1,1,0,0,0.2824477255344391,0.5538076162338257,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 6.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 6.jpg,0,0,1,1,0,0,0.302430659532547,0.6165218949317932,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 7.jpeg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 7.jpg,0,0,0,1,1,1,0.0057616671547293,0.0219420939683914,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 8.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 8.jpg,0,0,0,1,1,1,0.0010311616351827,0.0013543332461267,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 89.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 89.jpg,0,0,0,1,1,1,0.0077833011746406,0.0177343469113111,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 9.png,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 9.jpg,0,0,0,1,1,1,0.0064182002097368,0.0051665273495018,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 90.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 90.jpg,0,0,0,1,1,1,0.058468148112297,0.078987680375576,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 91.jpeg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 91.jpg,0,0,0,1,1,1,0.0196773167699575,0.2139553725719452,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 92.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 92.jpg,0,0,1,1,0,0,0.0316484197974205,0.8998622894287109,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 923.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 923.jpg,0,0,1,1,0,0,0.0769785121083259,0.9515395164489746,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 94.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 94.jpg,0,0,0,1,1,1,0.0041247047483921,0.0390608645975589,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 95.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 95.jpg,0,1,0,0,1,0,0.5904130935668945,0.3529804944992065,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 96.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 96.jpg,0,0,1,1,0,0,0.0985758975148201,0.6193004846572876,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 97.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 97.jpg,0,0,0,1,1,1,0.0041007488034665,0.0260493345558643,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 98.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 98.jpg,0,0,0,1,1,1,0.012054949067533,0.0128093790262937,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no 99.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no 99.jpg,0,0,0,1,1,1,0.0123258214443922,0.022299749776721,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\no.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\no.jpg,0,0,0,1,1,1,0.0802187100052833,0.4374540448188782,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No11.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No11.jpg,0,0,0,1,1,1,0.0057616671547293,0.0219420939683914,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No12.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No12.jpg,0,0,0,1,1,1,0.2691668570041656,0.3485596477985382,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No13.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No13.jpg,0,0,0,1,1,1,0.0152835892513394,0.0074985129758715,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No14.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No14.jpg,0,0,1,1,0,0,0.1432059556245803,0.7055084705352783,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No15.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No15.jpg,0,0,0,1,1,1,0.0846108943223953,0.3029492199420929,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No16.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No16.jpg,0,0,0,1,1,1,0.0016275398666039,0.0052002919837832,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No17.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No17.jpg,0,0,0,1,1,1,0.0846108943223953,0.3029492199420929,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No18.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No18.jpg,0,0,0,1,1,1,0.001058007357642,0.0104167070239782,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No19.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No19.jpg,0,0,0,1,1,1,0.0071075214073061,0.0265518520027399,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No20.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No20.jpg,0,0,1,1,0,0,0.3283174335956573,0.6349491477012634,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No21.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No21.jpg,0,0,0,1,1,1,0.0086024515330791,0.2407281249761581,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\no\No22.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\no\No22.jpg,0,0,1,1,0,0,0.0609303526580333,0.5331863760948181,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y1.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y1.jpg,1,1,1,1,1,1,0.9988903403282166,0.9957633018493652,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y10.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y10.jpg,1,1,1,1,1,1,0.9981866478919984,0.9828360676765442,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y100.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y100.jpg,1,1,1,1,1,1,0.9852908849716188,0.937682807445526,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y101.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y101.jpg,1,1,0,1,0,0,0.9126809239387512,0.4762438535690307,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y102.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y102.jpg,1,1,1,1,1,1,0.9962032437324524,0.9687724113464355,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y103.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y103.jpg,1,1,1,1,1,1,0.9997524619102478,0.9994179010391236,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y104.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y104.jpg,1,1,1,1,1,1,0.9901913404464722,0.99765944480896,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y105.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y105.jpg,1,1,1,1,1,1,0.9999815225601196,0.9991542100906372,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y106.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y106.jpg,1,1,1,1,1,1,0.9992616772651672,0.9982107877731324,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y107.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y107.jpg,1,1,1,1,1,1,0.9951855540275574,0.8895938992500305,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y108.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y108.jpg,1,1,1,1,1,1,0.9981027245521544,0.9972630739212036,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y109.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y109.jpg,1,1,1,1,1,1,0.9727368354797364,0.9263732433319092,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y11.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y11.jpg,1,1,1,1,1,1,0.9947065711021424,0.9655120372772216,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y111.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y111.jpg,1,1,1,1,1,1,0.9969761371612548,0.978667140007019,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y112.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y112.jpg,1,1,1,1,1,1,0.997556447982788,0.9868621826171876,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y113.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y113.jpg,1,1,1,1,1,1,0.8756375908851624,0.680555522441864,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y114.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y114.jpg,1,1,1,1,1,1,0.9999765157699584,0.9947360157966614,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y115.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y115.jpg,1,1,0,1,0,0,0.7151981592178345,0.4854488670825958,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y116.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y116.jpg,1,1,1,1,1,1,0.9845312833786012,0.6984290480613708,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y117.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y117.jpg,1,1,1,1,1,1,0.9967769980430604,0.8804307579994202,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y12.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y12.jpg,1,1,1,1,1,1,0.9990309476852416,0.9963443875312804,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y120.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y120.jpg,1,1,1,1,1,1,0.8126003742218018,0.9401915669441224,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y13.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y13.jpg,1,1,1,1,1,1,0.9991808533668518,0.988069236278534,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y14.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y14.jpg,1,1,1,1,1,1,0.9996235370635986,0.9971439242362976,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y146.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y146.jpg,1,1,1,1,1,1,0.9971877932548524,0.9786670207977296,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y147.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y147.jpg,1,1,1,1,1,1,0.9968948364257812,0.9942113757133484,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y148.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y148.jpg,1,1,1,1,1,1,0.9984251260757446,0.997452676296234,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y15.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y15.jpg,1,1,1,1,1,1,0.983880579471588,0.986846387386322,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y153.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y153.jpg,1,1,1,1,1,1,0.9999799728393556,0.9988952875137328,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y154.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y154.jpg,1,1,1,1,1,1,0.9998528957366944,0.9998689889907836,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y155.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y155.jpg,1,1,1,1,1,1,0.9990129470825196,0.98991197347641,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y156.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y156.jpg,1,1,1,1,1,1,0.9992653727531432,0.966561794281006,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y157.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y157.jpg,1,1,1,1,1,1,0.9968494772911072,0.9864953756332396,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y158.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y158.jpg,1,1,1,1,1,1,0.9532489776611328,0.785220205783844,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y159.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y159.jpg,1,1,1,1,1,1,0.9939263463020324,0.9745932817459106,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y16.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y16.jpg,1,1,1,1,1,1,0.9983723759651184,0.9886081218719482,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y160.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y160.jpg,1,1,1,1,1,1,0.980565905570984,0.8929551243782043,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y161.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y161.jpg,1,1,1,1,1,1,0.9987832903862,0.9451799392700196,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y162.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y162.jpg,1,1,1,1,1,1,0.9981027245521544,0.9972630739212036,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y163.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y163.jpg,1,1,1,1,1,1,0.9951300621032716,0.946591019630432,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y164.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y164.jpg,1,1,1,1,1,1,0.9985950589179992,0.999018669128418,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y165.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y165.jpg,1,1,1,1,1,1,0.8969117999076843,0.973288118839264,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y166.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y166.jpg,1,1,1,1,1,1,0.9746624827384948,0.9856135249137878,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y167.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y167.jpg,1,1,1,1,1,1,0.763741672039032,0.9174653887748718,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y168.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y168.jpg,1,1,1,1,1,1,0.9569488763809204,0.9572564959526062,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y169.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y169.jpg,1,1,1,1,1,1,0.9991808533668518,0.988069236278534,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y17.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y17.jpg,1,1,1,1,1,1,0.9996235370635986,0.9971439242362976,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y170.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y170.jpg,1,1,1,1,1,1,0.9720630049705504,0.9820384979248048,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y18.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y18.jpg,1,1,1,1,1,1,0.9954535961151124,0.9512739777565002,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y180.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y180.jpg,1,1,1,1,1,1,0.9858632683753968,0.9985907673835754,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y181.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y181.jpg,1,1,1,1,1,1,0.983880579471588,0.986846387386322,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y182.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y182.jpg,1,1,1,1,1,1,0.9985349178314208,0.9981404542922974,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y183.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y183.jpg,1,1,1,1,1,1,0.9981162548065186,0.996236264705658,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y184.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y184.jpg,1,1,1,1,1,1,0.9959123730659484,0.9496851563453674,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y185.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y185.jpg,1,1,1,1,1,1,0.9959087371826172,0.9817489385604858,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y186.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y186.jpg,1,1,1,1,1,1,0.8936526775360107,0.9507890343666076,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y187.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y187.jpg,1,1,0,1,0,0,0.9212709665298462,0.2692029774188995,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y188.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y188.jpg,1,1,1,1,1,1,0.983227014541626,0.983025312423706,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y19.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y19.jpg,1,1,1,1,1,1,0.9969695210456848,0.9976498484611512,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y192.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y192.jpg,1,1,1,1,1,1,0.9916535019874572,0.9887806177139282,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y193.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y193.jpg,1,1,1,1,1,1,0.9919087290763856,0.975402057170868,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y194.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y194.jpg,1,1,1,1,1,1,0.9930474162101746,0.9963595271110536,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y195.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y195.jpg,1,1,1,1,1,1,0.9266119599342346,0.9884706735610962,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y2.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y2.jpg,1,1,1,1,1,1,0.9997512698173524,0.9813051819801332,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y20.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y20.jpg,1,1,1,1,1,1,0.9968895316123962,0.9028655886650084,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y21.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y21.jpg,1,1,1,1,1,1,0.9996157884597778,0.9696425795555116,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y22.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y22.jpg,1,1,1,1,1,1,0.9809356927871704,0.9395554065704346,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y23.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y23.jpg,1,1,1,1,1,1,0.9988141059875488,0.9892069101333618,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y24.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y24.jpg,1,1,1,1,1,1,0.9973012804985046,0.9959539175033568,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y242.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y242.jpg,1,1,1,1,1,1,0.962227702140808,0.9161389470100404,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y243.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y243.jpg,1,1,1,1,1,1,0.9989933371543884,0.9988648891448976,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y244.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y244.jpg,1,1,1,1,1,1,0.964659869670868,0.9614781141281128,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y245.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y245.jpg,1,1,1,1,1,1,0.996913194656372,0.9914162755012512,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y246.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y246.jpg,1,1,1,1,1,1,0.9353554248809814,0.9799384474754332,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y247.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y247.jpg,1,1,1,1,1,1,0.8959611058235168,0.6082491874694824,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y248.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y248.jpg,1,1,1,1,1,1,0.9998600482940674,0.9642629027366638,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y249.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y249.jpg,1,1,1,1,1,1,0.9957697987556458,0.9659643173217772,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y25.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y25.jpg,1,1,1,1,1,1,0.996493637561798,0.998977541923523,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y250.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y250.jpg,1,1,1,1,1,1,0.9970356225967408,0.9334412813186646,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y251.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y251.jpg,1,1,1,1,1,1,0.993591845035553,0.9407536387443542,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y252.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y252.jpg,1,1,1,1,1,1,0.9746358394622804,0.982299268245697,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y253.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y253.jpg,1,1,1,1,1,1,0.9679571390151978,0.945067822933197,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y254.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y254.jpg,1,1,1,1,1,1,0.9988192915916444,0.999152660369873,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y255.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y255.jpg,1,1,1,1,1,1,0.996994137763977,0.9912616014480592,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y256.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y256.jpg,1,1,1,1,1,1,0.9996812343597412,0.9967273473739624,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y257.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y257.jpg,1,1,1,1,1,1,0.9988024234771729,0.9942803382873536,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y258.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y258.jpg,1,1,1,1,1,1,0.9978476762771606,0.9933696985244752,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y259.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y259.jpg,1,1,1,1,1,1,0.9980908036231996,0.9924566745758056,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y26.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y26.jpg,1,1,1,1,1,1,0.9678142070770264,0.9628405570983888,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y27.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y27.jpg,1,1,1,1,1,1,0.9905931353569032,0.9894534349441528,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y28.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y28.jpg,1,1,1,1,1,1,0.9997296929359436,0.9993894100189208,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y29.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y29.jpg,1,1,1,1,1,1,0.933639407157898,0.953043520450592,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y3.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y3.jpg,1,1,1,1,1,1,0.9993196725845336,0.9840250611305236,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y30.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y30.jpg,1,1,1,1,1,1,0.9981374740600586,0.9769855737686156,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y31.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y31.jpg,1,1,1,1,1,1,0.9987515211105348,0.9883827567100524,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y32.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y32.jpg,1,1,1,1,1,1,0.9742079973220824,0.9267098307609558,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y33.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y33.jpg,1,1,1,1,1,1,0.9951855540275574,0.8895938992500305,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y34.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y34.jpg,1,1,1,1,1,1,0.983880579471588,0.986846387386322,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y35.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y35.jpg,1,1,1,1,1,1,0.9996606111526488,0.96710604429245,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y36.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y36.jpg,1,1,1,1,1,1,0.995989978313446,0.9622591733932496,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y37.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y37.jpg,1,1,1,1,1,1,0.9981866478919984,0.9828360676765442,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y38.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y38.jpg,1,1,1,1,1,1,0.9981374740600586,0.9769855737686156,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y39.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y39.jpg,1,1,1,1,1,1,0.9981379508972168,0.9912405610084534,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y4.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y4.jpg,1,1,1,1,1,1,0.9892622828483582,0.9737421870231628,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y40.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y40.jpg,1,1,1,1,1,1,0.9962691068649292,0.9911624193191528,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y41.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y41.jpg,1,1,1,1,1,1,0.9996113181114196,0.9970834851264954,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y42.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y42.jpg,1,1,1,1,1,1,0.9978113770484924,0.9866235852241516,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y44.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y44.jpg,1,1,1,1,1,1,0.9963880777359008,0.9828683137893676,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y45.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y45.jpg,1,1,1,1,1,1,0.8659051060676575,0.8226420879364014,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y46.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y46.jpg,1,1,1,1,1,1,0.9395412802696228,0.9204413294792176,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y47.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y47.jpg,1,1,1,1,1,1,0.9790265560150146,0.982160210609436,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y49.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y49.jpg,1,1,1,1,1,1,0.99457448720932,0.8735058903694153,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y50.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y50.jpg,1,1,1,1,1,1,0.9566356539726256,0.825976550579071,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y51.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y51.jpg,1,1,1,1,1,1,0.993122398853302,0.997795581817627,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y52.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y52.jpg,1,1,1,1,1,1,0.9978160858154296,0.9939020872116088,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y53.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y53.jpg,1,1,1,1,1,1,0.9971553087234496,0.9932570457458496,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y54.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y54.jpg,1,1,1,1,1,1,0.9981374740600586,0.9769855737686156,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y55.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y55.jpg,1,1,1,1,1,1,0.998596966266632,0.9969108700752258,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y56.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y56.jpg,1,1,1,1,1,1,0.9884371161460876,0.9683563709259032,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y58.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y58.jpg,1,1,1,1,1,1,0.9967250227928162,0.9775348901748656,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y59.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y59.jpg,1,1,1,1,1,1,0.6743481755256653,0.7994803786277771,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y6.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y6.jpg,1,1,1,1,1,1,0.997835099697113,0.9959306120872498,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y60.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y60.jpg,1,1,1,1,1,1,0.9985947012901306,0.9582758545875548,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y61.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y61.jpg,1,1,1,1,1,1,0.9997863173484802,0.9994612336158752,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y62.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y62.jpg,1,1,1,1,1,1,0.9987515211105348,0.9883827567100524,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y65.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y65.jpg,1,1,1,1,1,1,0.9968690276145936,0.978118658065796,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y66.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y66.jpg,1,1,1,1,1,1,0.9976571798324584,0.9747572541236876,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y67.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y67.jpg,1,1,1,1,1,1,0.8372796177864075,0.5488844513893127,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y69.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y69.jpg,1,1,1,1,1,1,0.996493637561798,0.998977541923523,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y7.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y7.jpg,1,1,1,1,1,1,0.9680840373039246,0.71415776014328,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y70.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y70.jpg,1,1,1,1,1,1,0.9981374740600586,0.9769855737686156,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y71.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y71.jpg,1,1,1,1,1,1,0.9994633793830872,0.9766560196876526,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y73.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y73.jpg,1,1,1,1,1,1,0.999831199645996,0.984520137310028,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y74.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y74.jpg,1,1,1,1,1,1,0.998596966266632,0.9969108700752258,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y75.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y75.jpg,1,1,1,1,1,1,0.9974032044410706,0.9990123510360718,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y76.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y76.jpg,1,1,1,1,1,1,0.9960381984710692,0.9967060685157776,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y77.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y77.jpg,1,1,1,1,1,1,0.9966147541999816,0.9853872060775756,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y78.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y78.jpg,1,1,1,1,1,1,0.998712420463562,0.995329976081848,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y79.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y79.jpg,1,1,1,1,1,1,0.9998528957366944,0.9998689889907836,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y8.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y8.jpg,1,1,1,1,1,1,0.9996377229690552,0.9602637887001038,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y81.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y81.jpg,1,1,1,1,1,1,0.983459174633026,0.9863714575767516,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y82.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y82.jpg,1,1,1,1,1,1,0.9941482543945312,0.9537046551704408,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y85.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y85.jpg,1,1,1,1,1,1,0.9781922698020936,0.5205523371696472,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y86.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y86.jpg,1,1,1,1,1,1,0.9942023158073424,0.9855955839157104,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y89.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y89.jpg,1,1,1,1,1,1,0.9920921325683594,0.9693962931632996,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y9.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y9.jpg,1,1,1,1,1,1,0.9987177848815918,0.9942677021026612,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y90.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y90.jpg,1,1,1,1,1,1,0.9767147302627563,0.9576272368431092,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y91.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y91.jpg,1,1,1,1,1,1,0.9998288154602052,0.9988476037979126,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y92.png,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y92.jpg,1,1,1,1,1,1,0.9969283938407898,0.9127276539802552,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y95.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y95.jpg,1,1,1,1,1,1,0.9980133771896362,0.9966890215873718,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y96.jpg,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y96.jpg,1,1,1,1,1,1,0.9993663430213928,0.998931348323822,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y97.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y97.jpg,1,1,1,1,1,1,0.9949400424957277,0.9698185920715332,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y98.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y98.jpg,1,1,1,1,1,1,0.9910915493965148,0.992665946483612,0,0
+D:\IMAGE COMPRESSION PROJECT\brain_tumor_dataset\yes\Y99.JPG,D:\IMAGE COMPRESSION PROJECT\output\processed_datasets\aggressive\yes\Y99.jpg,1,1,1,1,1,1,0.996745467185974,0.9756896495819092,0,0
